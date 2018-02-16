@@ -1,2 +1,3 @@
 # go-pos
-Golang Point Of Sale
+
+Golang Point Of Sale Application
